@@ -1,0 +1,4 @@
+.idea/
+target/
+results/
+jcstress-results-*.bin.gz
